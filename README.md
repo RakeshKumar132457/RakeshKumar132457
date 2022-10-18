@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rakesh Kumar</h1>
 
--   🔭 I’m currently working on improving [Natours](https://github.com/RakeshKumar132457/natours)
+-   🔭 I’m currently working on improving [The Movie App](https://github.com/RakeshKumar132457/the-movie-app-backend)
 
--   🌱 I’m currently learning **Next.js**
+-   🌱 Right now I working on improving my skill-set as full-stack developer.
 
 -   ⚡ In free time I do **LeetCode**
 
