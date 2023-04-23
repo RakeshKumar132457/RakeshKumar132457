@@ -10,4 +10,3 @@
 
 -   📄 Know about my [experiences](https://drive.google.com/file/d/182VV1u5TUvZIp4o3EIjGMfFitZOdOtQ5/view?usp=sharing)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RakeshKumar132457&theme=dark&border_radius=4.4)](https://git.io/streak-stats)
