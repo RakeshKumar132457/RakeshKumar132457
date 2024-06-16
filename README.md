@@ -10,3 +10,5 @@
 
 -   📄 Know about my [experiences]( https://drive.google.com/file/d/1HKAXnEOIvo7mV8RChWhFqvSW0tbUZeFb/view?usp=share_link)
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="rakeshkumar1324" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/rakeshkumar1324?trk=profile-badge">Rakesh Kumar</a></div>
+              
