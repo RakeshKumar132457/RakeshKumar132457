@@ -32,4 +32,9 @@
   <a href="https://html.spec.whatwg.org/" target="_blank"> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" alt="HTML5"/> </a>
   <a href="https://www.w3.org/Style/CSS/" target="_blank"> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" alt="CSS3"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white" alt="Git"/> </a>
+  <a href="https://www.rust-lang.org/" target="_blank"> <img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white" alt="Rust"/> </a>
+  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=black" alt="C"/> </a>
+  <a href="https://golang.org/" target="_blank"> <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white" alt="Go"/> </a>
+  <a href="https://redis.io/" target="_blank"> <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white" alt="Redis"/> </a>
+  <a href="https://cloud.google.com/" target="_blank"> <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white" alt="Google Cloud Platform"/> </a>
 </p>
