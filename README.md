@@ -18,9 +18,6 @@ I'm a passionate Full Stack Software Engineer with expertise in building scalabl
 
 ## 🛠️ Tech Stack
 
-<details>
-<summary>Click to expand!</summary>
-
 ### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white)
@@ -43,8 +40,6 @@ I'm a passionate Full Stack Software Engineer with expertise in building scalabl
 ### Cloud & DevOps
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=Google%20Cloud&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
-
-</details>
 
 ## 🤝 Let's Connect!
 
